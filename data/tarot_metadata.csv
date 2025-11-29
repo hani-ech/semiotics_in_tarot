@@ -1,45 +1,45 @@
-deck,card,file,year
-Rider–Waite,The Fool,RWS/m00.jpg,1900
-Rider–Waite,The Magician,RWS/m01.jpg,1900
-Rider–Waite,The High Priestess,RWS/m02.jpg,1900
-Rider–Waite,The Empress,RWS/m03.jpg,1900
-Rider–Waite,The Emperor,RWS/m04.jpg,1900
-Rider–Waite,The Hierophant,RWS/m05.jpg,1900
-Rider–Waite,The Lovers,RWS/m06.jpg,1900
-Rider–Waite,The Chariot,RWS/m07.jpg,1900
-Rider–Waite,Strength,RWS/m08.jpg,1900
-Rider–Waite,The Hermit,RWS/m09.jpg,1900
-Rider–Waite,Wheel of Fortune,RWS/m10.jpg,1900
-Rider–Waite,Justice,RWS/m11.jpg,1900
-Rider–Waite,The Hanged Man,RWS/m12.jpg,1900
-Rider–Waite,Death,RWS/m13.jpg,1900
-Rider–Waite,Temperance,RWS/m14.jpg,1900
-Rider–Waite,The Devil,RWS/m15.jpg,1900
-Rider–Waite,The Tower,RWS/m16.jpg,1900
-Rider–Waite,The Star,RWS/m17.jpg,1900
-Rider–Waite,The Moon,RWS/m18.jpg,1900
-Rider–Waite,The Sun,RWS/m19.jpg,1900
-Rider–Waite,Judgement,RWS/m20.jpg,1900
-Rider–Waite,The World,RWS/m21.jpg,1900
-Marseille,The Fool,Marseille/m00.jpg,1700
-Marseille,The Juggler,Marseille/m01.jpg,1700
-Marseille,The Popess,Marseille/m02.jpg,1700
-Marseille,The Empress,Marseille/m03.jpg,1700
-Marseille,The Emperor,Marseille/m04.jpg,1700
-Marseille,The Pope,Marseille/m05.jpg,1700
-Marseille,The Lovers,Marseille/m06.jpg,1700
-Marseille,The Chariot,Marseille/m07.jpg,1700
-Marseille,Justice,Marseille/m08.jpg,1700
-Marseille,The Hermit,Marseille/m09.jpg,1700
-Marseille,Wheel of Fortune,Marseille/m10.jpg,1700
-Marseille,Strength,Marseille/m11.jpg,1700
-Marseille,The Hanged Man,Marseille/m12.jpg,1700
-Marseille,unnamed,Marseille/m13.jpg,1700
-Marseille,Temperance,Marseille/m14.jpg,1700
-Marseille,The Devil,Marseille/m15.jpg,1700
-Marseille,The House of God,Marseille/m16.jpg,1700
-Marseille,The Star,Marseille/m17.jpg,1700
-Marseille,The Moon,Marseille/m18.jpg,1700
-Marseille,The Sun,Marseille/m19.jpg,1700
-Marseille,Judgement,Marseille/m20.jpg,1700
-Marseille,The World,Marseille/m21.jpg,1700
+deck,deck_id,card,file,motif,year
+Rider–Waite,RWS,The Fool,RWS/m00.jpg,fool,1900
+Rider–Waite,RWS,The Magician,RWS/m01.jpg,magician,1900
+Rider–Waite,RWS,The High Priestess,RWS/m02.jpg,high_priestess,1900
+Rider–Waite,RWS,The Empress,RWS/m03.jpg,empress,1900
+Rider–Waite,RWS,The Emperor,RWS/m04.jpg,emperor,1900
+Rider–Waite,RWS,The Hierophant,RWS/m05.jpg,hierophant,1900
+Rider–Waite,RWS,The Lovers,RWS/m06.jpg,lovers,1900
+Rider–Waite,RWS,The Chariot,RWS/m07.jpg,chariot,1900
+Rider–Waite,RWS,Strength,RWS/m08.jpg,justice,1900
+Rider–Waite,RWS,The Hermit,RWS/m09.jpg,hermit,1900
+Rider–Waite,RWS,Wheel of Fortune,RWS/m10.jpg,wheel_of_fortune,1900
+Rider–Waite,RWS,Justice,RWS/m11.jpg,strength,1900
+Rider–Waite,RWS,The Hanged Man,RWS/m12.jpg,hanged_man,1900
+Rider–Waite,RWS,Death,RWS/m13.jpg,death,1900
+Rider–Waite,RWS,Temperance,RWS/m14.jpg,temperance,1900
+Rider–Waite,RWS,The Devil,RWS/m15.jpg,devil,1900
+Rider–Waite,RWS,The Tower,RWS/m16.jpg,tower,1900
+Rider–Waite,RWS,The Star,RWS/m17.jpg,star,1900
+Rider–Waite,RWS,The Moon,RWS/m18.jpg,moon,1900
+Rider–Waite,RWS,The Sun,RWS/m19.jpg,sun,1900
+Rider–Waite,RWS,Judgement,RWS/m20.jpg,judgement,1900
+Rider–Waite,RWS,The World,RWS/m21.jpg,world,1900
+Marseille,MARS,The Fool,Marseille/m00.jpg,fool,1700
+Marseille,MARS,The Juggler,Marseille/m01.jpg,magician,1700
+Marseille,MARS,The Popess,Marseille/m02.jpg,high_priestess,1700
+Marseille,MARS,The Empress,Marseille/m03.jpg,empress,1700
+Marseille,MARS,The Emperor,Marseille/m04.jpg,emperor,1700
+Marseille,MARS,The Pope,Marseille/m05.jpg,hierophant,1700
+Marseille,MARS,The Lovers,Marseille/m06.jpg,lovers,1700
+Marseille,MARS,The Chariot,Marseille/m07.jpg,chariot,1700
+Marseille,MARS,Justice,Marseille/m08.jpg,justice,1700
+Marseille,MARS,The Hermit,Marseille/m09.jpg,hermit,1700
+Marseille,MARS,Wheel of Fortune,Marseille/m10.jpg,wheel_of_fortune,1700
+Marseille,MARS,Strength,Marseille/m11.jpg,strength,1700
+Marseille,MARS,The Hanged Man,Marseille/m12.jpg,hanged_man,1700
+Marseille,MARS,unnamed,Marseille/m13.jpg,death,1700
+Marseille,MARS,Temperance,Marseille/m14.jpg,temperance,1700
+Marseille,MARS,The Devil,Marseille/m15.jpg,devil,1700
+Marseille,MARS,The House of God,Marseille/m16.jpg,tower,1700
+Marseille,MARS,The Star,Marseille/m17.jpg,star,1700
+Marseille,MARS,The Moon,Marseille/m18.jpg,moon,1700
+Marseille,MARS,The Sun,Marseille/m19.jpg,sun,1700
+Marseille,MARS,Judgement,Marseille/m20.jpg,judgement,1700
+Marseille,MARS,The World,Marseille/m21.jpg,world,1700
